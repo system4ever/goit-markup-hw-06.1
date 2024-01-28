@@ -885,3 +885,7 @@ header {
     margin-left: auto;
     margin-right: auto;
 }
+
+@media and (min-width: 768px) {}
+
+@media and (min-width: 1158px) {}
