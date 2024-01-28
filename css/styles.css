@@ -1268,24 +1268,3 @@ header {
             url(../images/office-tablet.jpg);
     }
 }
-
-
-
-
-
-
-
-@media screen and (min-resolution: 768px) {
-    .section-solutions {
-        background-image: linear-gradient(to bottom,
-                rgba(46, 47, 66, 0.7),
-                rgba(46, 47, 66, 0.7)),
-            url(../images/office-tablet.jpg);
-    }
-}
-
-do[rkg] dal-nav-media-list {
-    display: flex;
-    justify-content: space-evenly;
-    list-style-type: none;
-    gap: 24px;
